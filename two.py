@@ -99,27 +99,3 @@ def read_genome(path_to_directory):
 
 
 read_genome(r"C:\Users\legregam\Documents\Projets\Swurl\files")
-
-#             print(genome)
-
-#     return
-
-# # Parse and print lines from files
-# for path in file_paths:
-#
-#
-
-# # genome = []
-#
-# print(filename)
-#
-# # new_filename = filename.replace(".fasta", "")
-#
-# # Open .fasta genome file
-# with open(os.path.join("files", filename), 'r') as f:
-#
-
-
-#
-#
-# read_genome('files')
